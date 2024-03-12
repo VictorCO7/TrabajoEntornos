@@ -1,0 +1,8 @@
+public double restar() {
+
+        System.out.print("Introduce dos numeros para restar: ");
+        double num1 = sc.nextDouble();
+        double num2 = sc.nextDouble();
+        return num1 - num2;
+
+    }
